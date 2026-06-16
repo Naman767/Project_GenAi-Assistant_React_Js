@@ -17,6 +17,14 @@ This is an AI chatbot built with React JS.
 ## Installation
 - npm install
 - npm run dev
+- 
+## Implementation Details
+* Built the user interface using React JS and reusable components.
+* Used React Hooks (useState) to manage user input and chat messages.
+* Integrated the Gemini API to get AI-generated responses in real time.
+* Handled API calls and added loading and error messages for a better user experience.
+* Improved the application by organizing components properly and updating the UI based on user interactions.
+
 
 ## Note: 
 ###  - Project code file is on New-Branch.
